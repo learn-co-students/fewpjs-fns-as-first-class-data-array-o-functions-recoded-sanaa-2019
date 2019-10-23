@@ -35,7 +35,7 @@ For example:
 function wakeDog() {
   console.log("Wake Byron the poodle");
 }
-...
+... 
 ```
 
 But wait, if we write it in this way, all of our uses of this function will be
