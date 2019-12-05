@@ -23,7 +23,7 @@ let u=`Walk home with ${dogName} the${dogBreed}`;
 return u;
 }
 function unleashDog(dogName, dogBreed){
- let u=`Unleash  ${dogName} the ${dogBreed}`;
+ let u=`Unleash ${dogName} the ${dogBreed}`;
  return u;
 
 
