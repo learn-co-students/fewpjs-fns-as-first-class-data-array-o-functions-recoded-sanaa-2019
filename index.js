@@ -25,16 +25,17 @@ function unleashDog(dogName, dogBreed){
 
 
 }
-let routine=[function wakeDog(dogName, dogBreed) {
+
+//let routine=[function wakeDog(dogName, dogBreed) {
  
-  console.log(`Wake ${dogName} the ${dogBreed}`);
-},leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
+  //console.log(`Wake ${dogName} the ${dogBreed}`);
+//},leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
 
-function exerciseDog(dogName, dogBreed){
+//function exerciseDog(dogName, dogBreed){
 
- for(let i=0;i<routine.length-1;i++){
-   routine[i](dogName,dogBreed)
- }
+ //for(let i=0;i<routine.length-1;i++){
+   //routine[i](dogName,dogBreed)
+ //}
 
 
 
