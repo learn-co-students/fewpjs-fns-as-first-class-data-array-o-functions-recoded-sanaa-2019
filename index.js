@@ -32,7 +32,7 @@ function unleashDog(dogName, dogBreed){
 let routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
 
 function exerciseDog(dogName, dogBreed){
-  let res[];
+  let res=[];
   for(let i=0;i<routine.length-1;i++){
    res.push(routine[i](dogName,dogBreed));
   }
