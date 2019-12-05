@@ -5,7 +5,7 @@ function wakeDog(dogName,dogBreed){
 }
 function leashDog(dogName, dogBreed) {
   
-let u=`Leash  ${dogName} the ${dogBreed}`;
+let u=`Leash${dogName} the ${dogBreed}`;
  return u;
 }
 function walkToPark(dogName, dogBreed) {
