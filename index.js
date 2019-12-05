@@ -31,7 +31,7 @@ function unleashDog(dogName, dogBreed){
 
 let routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
 
-function exerciseDog(){
+function exerciseDog(dogName, dogBreed){
   
 }
  
