@@ -29,7 +29,8 @@ function unleashDog(dogName, dogBreed){
 
 }
 
-//routine=[function wakeDog(dogName, dogBreed) {
+let routine=[dogName, dogBreed] ;
+//{
  
   //console.log(`Wake ${dogName} the ${dogBreed}`);
 //},leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
