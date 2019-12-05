@@ -32,7 +32,10 @@ function unleashDog(dogName, dogBreed){
 let routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
 
 function exerciseDog(dogName, dogBreed){
-  
+  let res[];
+  for(let i=0;i<routine.length-1;i++){
+    
+  }
 }
  
   //console.log(`Wake ${dogName} the ${dogBreed}`);
