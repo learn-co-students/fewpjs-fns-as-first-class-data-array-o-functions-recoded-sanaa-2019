@@ -10,7 +10,7 @@ let u=`Leash ${dogName} the ${dogBreed}`;
 }
 function walkToPark(dogName, dogBreed) {
   
-console.log(`Walk to the park with  ${dogName} the ${dogBreed}`);
+u=`Walk to the park with  ${dogName} the ${dogBreed}`);
 
 }
 function throwFrisbee(dogName, dogBreed){
