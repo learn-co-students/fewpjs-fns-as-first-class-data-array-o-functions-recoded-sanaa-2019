@@ -10,8 +10,8 @@ let u=`Leash ${dogName} the ${dogBreed}`;
 }
 function walkToPark(dogName, dogBreed) {
   
-u=`Walk to the park with  ${dogName} the ${dogBreed}`);
-
+let u=`Walk to the park with  ${dogName} the ${dogBreed}`);
+return u;
 }
 function throwFrisbee(dogName, dogBreed){
  console.log(`Throw the frisbee for  ${dogName} the${dogBreed}`);
