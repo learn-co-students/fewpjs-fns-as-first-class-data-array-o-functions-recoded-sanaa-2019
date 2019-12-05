@@ -39,15 +39,4 @@ function exerciseDog(dogName, dogBreed){
   return res;
 }
  
-  //console.log(`Wake ${dogName} the ${dogBreed}`);
-//},leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
-
-//function exerciseDog(dogName, dogBreed){
-
- //for(let i=0;i<routine.length-1;i++){
-   //routine[i](dogName,dogBreed)
- //}
-
-
-
-//}
+ 
