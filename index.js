@@ -14,7 +14,7 @@ let u=`Walk to the park with ${dogName} the ${dogBreed}`;
 return u;
 }
 function throwFrisbee(dogName, dogBreed){
- let u=`Throw the frisbee for  ${dogName} the${dogBreed}`;
+ let u=`Throw the frisbee for  ${dogName} the ${dogBreed}`;
  return u;
 
 }
