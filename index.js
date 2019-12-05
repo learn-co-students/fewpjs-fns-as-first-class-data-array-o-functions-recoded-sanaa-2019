@@ -29,7 +29,7 @@ function unleashDog(dogName, dogBreed){
 
 }
 
-let routine=[leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
+let routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
 //{
  
   //console.log(`Wake ${dogName} the ${dogBreed}`);
